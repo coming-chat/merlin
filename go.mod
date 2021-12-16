@@ -1,4 +1,4 @@
-module github.com/gtank/merlin
+module github.com/coming-chat/merlin
 
 go 1.12
 
